@@ -1,0 +1,1 @@
+Clear blog header style.

@@ -1,0 +1,1 @@
+Floated navbar with clearfix.
